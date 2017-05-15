@@ -1,2 +1,2 @@
-# multicast
-MultCast test project
+# Sample Project
+Sample project project
